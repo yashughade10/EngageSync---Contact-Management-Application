@@ -82,7 +82,8 @@ let EditContact = () => {
                     <div className="row">
                         <div className="col">
                             <p className="h3 text-info fw-bold">Edit Contact</p>
-                            <p className="fst-italic">hello this is the cantact creating page</p>
+                            <p className="fst-italic">Welcome to the "Edit Contact" page! Here, you can effortlessly update your contact details with ease and efficiency. Simply navigate to the contact you wish to modify, make your changes, and save – it's that simple! Our intuitive design ensures a seamless editing experience, allowing you to keep your contacts up-to-date with minimal effort.
+                            </p>
                         </div>
                     </div>
                     <div className="row ">

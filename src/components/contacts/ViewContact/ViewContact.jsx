@@ -49,7 +49,7 @@ let ViewContact = () => {
                     <div className="row">
                         <div className="col">
                             <p className="h3 text-warning fw-bold">View Contact</p>
-                            <p className="fst-italic">tynz ujjdcnljz najdmlasdk jn jndmd kndjklmalskd njnsad </p>
+                            <p className="fst-italic">Welcome to the "View Contact" page! Here, you can delve into the details of your contacts with ease. Whether you're looking to review essential information or simply want to get in touch, this page offers a comprehensive view of each contact's profile. From their name and contact details to any additional notes or categories, everything you need is right at your fingertips. Our user-friendly interface ensures effortless navigation, allowing you to quickly access the information you need. Whether you're catching up with an old friend or preparing for a business meeting, the "View Contact" page empowers you to stay organized and informed. Explore your contacts' profiles today and unlock new possibilities in communication and relationship management!</p>
                         </div>
                     </div>
                 </div>

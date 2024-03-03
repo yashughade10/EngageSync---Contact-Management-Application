@@ -54,17 +54,17 @@ let AddContact = () => {
 
     }, []);
 
-    const formSubmit = async (e)=>{
+    const formSubmit = async (e) => {
         e.preventDefault();
 
-        try{
+        try {
             let response = await ContactService.createContact(state.contact)
-            if(response){
-                navigate('/contacts/list', {replace :true})
+            if (response) {
+                navigate('/contacts/list', { replace: true })
             }
-        } catch(error ){
-            setState({...state, errorMessage : error.message})
-            navigate('/contacts/add', {replace : false})
+        } catch (error) {
+            setState({ ...state, errorMessage: error.message })
+            navigate('/contacts/add', { replace: false })
         }
     }
 
@@ -73,13 +73,12 @@ let AddContact = () => {
 
     return (
         <>
-            <pre>{JSON.stringify(state.contact)}</pre>
             <section className="add-contact p-3">
                 <div className="container">
                     <div className="row">
                         <div className="col">
                             <p className="h3 text-success fw-bold">Create Contact</p>
-                            <p className="fst-italic">hello this is the cantact creating page</p>
+                            <p className="fst-italic">Welcome to the "Create Contact" page! Here, you have the opportunity to effortlessly add new contacts to your database. This intuitive platform is designed with simplicity and functionality in mind, ensuring a seamless experience as you input vital contact details.Whether it's a colleague, friend, or business associate, this page allows you to capture all the necessary information with ease. From basic information like name and phone number to additional notes or categories, you have the flexibility to tailor each contact entry to your specific needs. Our user-friendly interface guides you through the process, making it simple to organize and manage your contacts efficiently. Get started today and streamline your contact management process like never before!</p>
                         </div>
                     </div>
                     <div className="row">

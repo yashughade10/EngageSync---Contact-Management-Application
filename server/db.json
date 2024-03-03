@@ -1,0 +1,89 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdnsd",
+      "name": "Yashwant Yu",
+      "email": "yashwant24@gmail.com",
+      "photo": "https://www.freeiconspng.com/thumbs/person-icon/person-icon-person-icon-17.jpg",
+      "mobile": "7666232652",
+      "description": "nujdhus ujawd aw jnjdknak",
+      "groupId": "1"
+    },
+    {
+      "id": "PSVD9nha",
+      "name": "Phillip Marcos",
+      "email": "phillip@gmail.com",
+      "photo": "https://png.pngtree.com/png-clipart/20190922/original/pngtree-business-male-user-avatar-vector-png-image_4774078.jpg",
+      "mobile": "9154165156",
+      "description": "nujdhus ujawd aw jnjdknak",
+      "groupId": "1"
+    },
+    {
+      "id": "HGsSWYa2",
+      "name": "Henry Classen",
+      "email": "henry@gmail.com",
+      "photo": "https://www.freeiconspng.com/thumbs/person-icon/person-icon-person-icon-17.jpg",
+      "mobile": "8762165156",
+      "description": "nujdhus ujawd aw jnjdknak",
+      "groupId": "4"
+    },
+    {
+      "id": "OSw5SKoa",
+      "name": "Harry Norte",
+      "email": "harry@gmail.com",
+      "photo": "https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/256/User-icon.png",
+      "mobile": "6724165156",
+      "description": "nujdhus ujawd aw jnjdknak",
+      "groupId": "5"
+    },
+    {
+      "id": "AmKSA8bd",
+      "name": "Virat Singh",
+      "email": "singh@gmail.com",
+      "photo": "https://www.freeiconspng.com/thumbs/person-icon/person-icon-person-icon-17.jpg",
+      "mobile": "8235235256",
+      "description": "nujdhus ujawd aw jnjdknak",
+      "groupId": "4"
+    },
+    {
+      "id": "PWi0SadW",
+      "name": "Sakshi Doney",
+      "email": "doney@gmail.com",
+      "photo": "https://www.freeiconspng.com/thumbs/person-icon/person-icon-person-icon-17.jpg",
+      "mobile": "6515641541",
+      "description": "nujdhus ujawd aw jnjdknak",
+      "groupId": "3"
+    },
+    {
+      "id": "QuOs4SSB",
+      "name": "Naatu Naatu",
+      "email": "naatu@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "mobile": "7145825156",
+      "description": "nujdhus ujawd aw jnjdknak",
+      "groupId": "2"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friend"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Colleague"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    }
+  ]
+}
